@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577254754990",
+    "project_id": "mini-project-tms",
+    "storage_bucket": "mini-project-tms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577254754990:android:252b86dbc170a410617b3f",
+        "android_client_info": {
+          "package_name": "com.example.livetracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhzhnslvrLq3rSas83Ovyhdwo2QBMFykA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
